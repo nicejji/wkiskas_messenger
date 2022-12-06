@@ -3,7 +3,7 @@
 
 > ### Simple chat service built with FastAPI and Svelte.
 
-![Auth page](/docs/media/auth.png) ![Chat](docs/media/chat.png)
+<img src="/docs/media/auth.png" alt="auth page" width="500"/> <img src="/docs/media/chat.png" alt="chat page" width="500"/>
 
 #### Installation
 
